@@ -1,5 +1,6 @@
 # EOPPEP-Answers
-[![ΕΟΠΠΕΠ](https://www.eoppep.gr/templates/eoppep/images/logo.png)
+![EOPPEP](https://www.eoppep.gr/templates/eoppep/images/logo.png)
+
 Απαντήσεις στης Ερωτήσεις ΕΟΠΠΕΠ
 
 **ΤΕΧΝΙΚΟΣ ΕΦΑΡΜΟΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ (ΠΟΛΥΜΕΣΑ / WEBDESIGNER - DEVELOPER / VIDEOGAMES)**
